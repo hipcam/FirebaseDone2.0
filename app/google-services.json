@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "652328018682",
+    "firebase_url": "https://fir-app-4b061.firebaseio.com",
+    "project_id": "fir-app-4b061",
+    "storage_bucket": "fir-app-4b061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652328018682:android:793d281ee7cae910",
+        "android_client_info": {
+          "package_name": "pe.com.alvarado.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652328018682-k5lo58c91pavhueodp2vf571auvbdvt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.com.alvarado.firebaseapp",
+            "certificate_hash": "101ce75af3d8a18933637ada41091269d9b554a4"
+          }
+        },
+        {
+          "client_id": "652328018682-9bj1fdnorjc2kru0mqmer5nhj8c2dqjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.com.alvarado.firebaseapp",
+            "certificate_hash": "5a67bfc4c6464fca94186e9f479944139fd95728"
+          }
+        },
+        {
+          "client_id": "652328018682-md80u5bset65oj3cq57lo75krsgo44p0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "652328018682-md80u5bset65oj3cq57lo75krsgo44p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4Zc2vpJEB3eiDuyCLTvh_TQhqeER9LY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652328018682-md80u5bset65oj3cq57lo75krsgo44p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
